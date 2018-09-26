@@ -9,3 +9,6 @@ Installig this app
 
 3. npm start 
 
+You can use postman to work with this url : http://localhost:3000/photos
+
+
