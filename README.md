@@ -1,5 +1,7 @@
 # klinifyserver
 
+A server that supports file upload. Written in node, expressjs, multer.
+
 
 Installig this app 
 
